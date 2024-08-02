@@ -1,8 +1,6 @@
 <h1 ">Hi 👋, I'm Rofida Gamal</h1>
 <h3>I'm Teaching Assistant at faculty of computers and information, bioinformatics department at Assiut University</h3>
 
-- 🔭 I’m currently working on **Backend project**
-
 - 📫 How to reach me **rofidagamal55678@gmail.com**
 
 <p align="left">
