@@ -1,7 +1,7 @@
 <h1 ">Hi 👋, I'm Rofida Gamal</h1>
 <h3>I'm an Assistant Lecturer at the Faculty of Computers and Information, Bioinformatics Program at Assiut University</h3>
 
-- 📫 How to reach me **rofidagamal55678@gmail.com**
+- 📫 How to reach me **rofidagamal55678@gmail.com or rofidagamal@aun.edu.eg**
 
 <p align="left">
   I like Data Analysis, Data Engineering, bioinformatics, ML, DL, and backend. I like to get experience in different computational skills and bioinformatics techniques 
