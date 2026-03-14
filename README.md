@@ -1,10 +1,10 @@
 <h1 ">Hi 👋, I'm Rofida Gamal</h1>
-<h3>I'm Teaching Assistant at faculty of computers and information, bioinformatics department at Assiut University</h3>
+<h3>I'm an Assistant Lecturer at the Faculty of Computers and Information, Bioinformatics Program at Assiut University</h3>
 
 - 📫 How to reach me **rofidagamal55678@gmail.com**
 
 <p align="left">
-  I like bioinformatics ,ML ,DL and backend , I like to get expriences in different computional skills and bioinformatics techinques 
+  I like Data Analysis, Data Engineering, bioinformatics, ML, DL, and backend. I like to get experience in different computational skills and bioinformatics techniques 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
